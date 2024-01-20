@@ -1,6 +1,10 @@
 body {
-    background: rgba(0, 255, 247, 0.586);
- 
-
+    background: rgba(71, 222, 217, 0.647);
+ font-size: larger;
+ margin-right: 50%;
 }
- 
+div{width: 900px;
+    margin: 0%;
+     background-color: rgba(251, 251, 251, 0.682);
+    font-size: medium;
+    padding: 30px;}
